@@ -14,7 +14,7 @@
 
 ## Objective
 
-In this project, I will demonstrate how to install Microsoft Graph PowerShell and connect to my Microsoft Entra ID account. Microsoft Graph PowerShell is the official toolset to manage Entra ID (Azure AD) using PowerShell. It replaces older modules like AzureAD and gives you secure, scriptable access to identity, group, roles, policies, and more via Microsoft Graph API. It allows us to automate, manage, and interact with Entra ID using simple command-line instructions.
+In this project, I will demonstrate how to install Microsoft Graph PowerShell and connect to my Microsoft Entra ID account. Microsoft Graph PowerShell is the official toolset to manage Entra ID using PowerShell. It replaces older modules like AzureAD and gives you secure, scriptable access to identity, group, roles, policies, and more via Microsoft Graph API. It allows us to automate, manage, and interact with Entra ID using simple command-line instructions.
 
 ----
 
@@ -44,7 +44,7 @@ In this project, I will demonstrate how to install Microsoft Graph PowerShell an
 
 ## Conclusion
 
-Through this project, I successfully demonstrated how to install and connect to Microsoft Graph PowerShell. By leveraging Microsoft Graph, I was able to securely interact with Microsoft Entra ID (formerly Azure AD) using simple PowerShell commands. This setup allows for powerful automation and management of identity-related tasks such as retrieving user information.
+Through this project, I successfully demonstrated how to install and connect to Microsoft Graph PowerShell. By leveraging Microsoft Graph, I was able to securely interact with Microsoft Entra ID using simple PowerShell commands. This setup allows for powerful automation and management of identity-related tasks such as retrieving user information.
 
 This process highlights how Microsoft Graph PowerShell can replace legacy modules and serve as a modern, centralized tool for managing Microsoft 365 and Entra ID environments. It lays the foundation for further scripting, reporting, and administration tasks in the cloud.
 
