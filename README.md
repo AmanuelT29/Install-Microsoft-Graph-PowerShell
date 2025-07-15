@@ -1,1 +1,1 @@
-# Install-Microsoft-Graph-PowerShell
+# Install Microsoft Graph PowerShell
