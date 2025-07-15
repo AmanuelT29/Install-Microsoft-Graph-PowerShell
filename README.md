@@ -40,6 +40,14 @@ In this project, I will demonstrate how to install Microsoft Graph PowerShell an
 
 <img src="https://github.com/user-attachments/assets/baf3a171-45f7-480b-ba1d-86fc10908963" width="600" alt="Screenshot 2025-07-14 202414" />
 
+----
+
+## Conclusion
+
+Through this project, I successfully demonstrated how to install and connect to Microsoft Graph PowerShell. By leveraging Microsoft Graph, I was able to securely interact with Microsoft Entra ID (formerly Azure AD) using simple PowerShell commands. This setup allows for powerful automation and management of identity-related tasks such as retrieving user information.
+
+This process highlights how Microsoft Graph PowerShell can replace legacy modules and serve as a modern, centralized tool for managing Microsoft 365 and Entra ID environments. It lays the foundation for further scripting, reporting, and administration tasks in the cloud.
+
 
 
 
