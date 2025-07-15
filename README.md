@@ -14,3 +14,11 @@ In this project, I will demonstrate how to install Microsoft Graph PowerShell. M
 
 ----
 
+## To Install Microsoft Graph Powershell
+
+1. I opened PowerShell as an Administrator, then ran the command `Install-Module Microsoft.Graph -Scope CurrentUser -Verbose` and pressed **Y** to confirm the installation:
+
+ <img src="https://github.com/user-attachments/assets/5415c3d3-d43f-41f6-b0a8-088c4e5a30fa" width="650" alt="Screenshot 2025-07-14 193942" />
+
+
+
