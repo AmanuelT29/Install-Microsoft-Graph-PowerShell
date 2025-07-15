@@ -24,7 +24,7 @@ In this project, I will demonstrate how to install Microsoft Graph PowerShell an
 
 <img src="https://github.com/user-attachments/assets/5415c3d3-d43f-41f6-b0a8-088c4e5a30fa" width="650" alt="Screenshot 2025-07-14 193942" />
 
-- Installing packages:
+- Installing Microsoft Graph packages:
   
 <img src="https://github.com/user-attachments/assets/376fffd1-531f-456e-9665-406ce9fad374" width="400" alt="Screenshot 2025-07-14 194232" />
 
