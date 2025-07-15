@@ -7,6 +7,10 @@
 
 ## Platform and Tools Used
 
+- Microsoft Azure
+- Web Browser
+- PowerShell
+
 
 ## Objective
 
